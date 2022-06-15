@@ -19,7 +19,7 @@ The following tasks will be performed to complete the project:
 
 - R 4.2.0
 - RStudio
-- 
+
 ## Linear Regression to Predict MPG
 
 ![image](https://user-images.githubusercontent.com/99924850/173481915-4a0407fc-eca3-4d06-b6f4-e8e6faf0acfc.png)
