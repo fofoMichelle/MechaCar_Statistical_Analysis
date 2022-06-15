@@ -66,6 +66,7 @@ Below are the T-test results . We will assume the significance level of 0.05 per
 
 ### All manufacturing lots 
 
+At a significance level of the common 0.05 percent, our p-value of 0.06 is above the significance level. Therefore, we do not have sufficient evidence to reject that there is a statistical difference between All Manufactuting lots and the population mean. The two means are statistically similar.
 
 ![image](https://user-images.githubusercontent.com/99924850/173485612-35b57276-0af0-425c-8364-95a9fe9d810b.png)
 
@@ -73,14 +74,27 @@ Below are the T-test results . We will assume the significance level of 0.05 per
 
 ![image](https://user-images.githubusercontent.com/99924850/173486654-a845fc93-87fc-4b32-a5d5-d1663059bb3f.png)
 
+At a significance level of the common 0.05 percent, our p-value of 1.0 is above the significance level. Therefore, we do not have sufficient evidence to reject that there is a statistical difference between Lot 1 and the population mean. The two means are statistically similar.
+
 ### Lot 2
 
 ![image](https://user-images.githubusercontent.com/99924850/173486786-a85568ed-9889-48af-8c7c-2ffed53b425d.png)
 
+At a significance level of the common 0.05 percent, our p-value of 0.61 is above the significance level. Therefore, we do not have sufficient evidence to reject that there is a statistical difference between Lot 2 and the population mean. The two means are statistically similar.
 
 ### Lot 3
 
 ![image](https://user-images.githubusercontent.com/99924850/173486915-9d62bbfe-4e3b-4c00-a601-b9c2b99c816b.png)
+
+At a significance level of the common 0.05 percent, our p-value of 0.042 is below the significance level. There is sufficient statistical evidence to reject that there is a statistical difference between Lot 3 and the population mean. The two means are statistically different.
+
+## Study Design: MechaCar vs Competition
+
+To compare MechaCar to its competition one can use an ANOVA test to compare the MechaCar in alot of categories that would matter to customers including but not limited to  cost, city or highway fuel efficiency and maintenace cost.
+With the ANOVA test we will be able to test if the means from multiple sampleas are significantly similar or different.
+We would gather data from the competition cars and compare the average of these cars in different categories to the ones from MechaCar.
+The p value being greater than 0.005 would mean that the MechaCars has the same performances within these categories would be our null hypothesis.And the opposite would be the alternative hypothesis.
+If the p value is less than 0.05  we are to reject our null hypothesis. We would then need to look at the average of the MechaCar if either below or above the other average this would show its performance against its competitors with below being worse and above being better.
 
 
 
