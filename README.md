@@ -71,7 +71,7 @@ Below are the T-test results . We will assume the significance level of 0.05 per
 
 ### All manufacturing lots 
 
-At a significance level of the common 0.05 percent, our p-value of 0.06 is above the significance level. Therefore, we do not have sufficient evidence to reject that there is a statistical difference between All Manufactuting lots and the population mean. The two means are statistically similar.
+At an assumed significance level of 0.05 percent, our p-value of 0.06 is above the significance level. Therefore, we do not have sufficient evidence to reject that there is a statistical difference between All Manufactuting lots and the population mean. The two means are statistically similar.
 
 ![image](https://user-images.githubusercontent.com/99924850/173485612-35b57276-0af0-425c-8364-95a9fe9d810b.png)
 
