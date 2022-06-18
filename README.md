@@ -79,19 +79,19 @@ At a significance level of the common 0.05 percent, our p-value of 0.06 is above
 
 ![image](https://user-images.githubusercontent.com/99924850/173486654-a845fc93-87fc-4b32-a5d5-d1663059bb3f.png)
 
-At a significance level of the common 0.05 percent, our p-value of 1.0 is above the significance level. Therefore, we do not have sufficient evidence to reject that there is a statistical difference between Lot 1 and the population mean. The two means are statistically similar.
+At an assumed significance level of 0.05 percent, our p-value of 1.0 is above the significance level. Therefore, we do not have sufficient evidence to reject that there is a statistical difference between Lot 1 and the population mean. The two means are statistically similar.
 
 ### Lot 2
 
 ![image](https://user-images.githubusercontent.com/99924850/173486786-a85568ed-9889-48af-8c7c-2ffed53b425d.png)
 
-At a significance level of the common 0.05 percent, our p-value of 0.61 is above the significance level. Therefore, we do not have sufficient evidence to reject that there is a statistical difference between Lot 2 and the population mean. The two means are statistically similar.
+At an assumed significance level of 0.05 percent, our p-value of 0.61 is above the significance level. Therefore, we do not have sufficient evidence to reject that there is a statistical difference between Lot 2 and the population mean. The two means are statistically similar.
 
 ### Lot 3
 
 ![image](https://user-images.githubusercontent.com/99924850/173486915-9d62bbfe-4e3b-4c00-a601-b9c2b99c816b.png)
 
-At a significance level of the common 0.05 percent, our p-value of 0.042 is below the significance level. There is sufficient statistical evidence to reject that there is a statistical difference between Lot 3 and the population mean. The two means are statistically different.
+At an assumed significance level of 0.05 percent, our p-value of 0.042 is below the significance level. There is sufficient statistical evidence to reject that there is a statistical difference between Lot 3 and the population mean. The two means are statistically different.
 
 ## Study Design: MechaCar vs Competition
 
